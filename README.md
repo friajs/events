@@ -1,11 +1,11 @@
-# Events
+# Eventos
 Registro de todos los eventos pasados y programación de eventos futuros.
 
 # Próximo Evento
 
 |    Fecha   |                   Tema                  |
 |:----------:|:---------------------------------------:|
-| 2018.05.29 |                                         |  
+| 2018.05.29 |                   TBD                   |  
 
 # Eventos Pasados
 
