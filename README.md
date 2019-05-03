@@ -24,7 +24,7 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 
 # ¿Quieres proponer un tema para fria.js?
 
-Solo tienes que abrir un issue con el siguiente formato:
+Solo tienes que [abrir un issue](https://github.com/friajs/events/issues/new) con el siguiente formato:
 
 **Titulo**: Tema a proponer.
 
