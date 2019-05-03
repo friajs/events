@@ -21,3 +21,9 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 | 2019.02.26 | Software Design                         |[Click aquí](https://drive.google.com/open?id=16Fwp2iQWu5BC5LXxUsizziM3iQ-fe9ng)                                                              |
 | 2019.03.27 | Software Design II                      |[Click aquí](https://drive.google.com/drive/folders/1BhbAYPlhGHwPXLu5twmlai5HPNEO1mnI?usp=sharing)             |
 | 2019.05.01 | Technical Debt                          |[Click aquí](https://drive.google.com/drive/folders/1P_NzUO_nu5q43sfunrcM8kd8We4svUxY?usp=sharing)             |
+
+# ¿Quieres proponer un tema para fria.js?
+
+Solo tienes que abrir un issue con el siguiente formato:
+**Titulo**: Tema a proponer.
+**Descripción**: Breve descripción del tema y cualquier argumento que consideres a favor del tema que propones.
