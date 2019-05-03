@@ -18,5 +18,5 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 | 2018.12.12 | Open Mic Night                          |             |
 | 2019.01.30 | OOP vs. FP En JavaScript                |             |
 | 2019.02.26 | Software Design                         |             |
-| 2019.03.27 | Software Design II                      |             |
-| 2019.05.01 | Technical Debt                          |             |
+| 2019.03.27 | Software Design II               |[Click aquí](https://drive.google.com/drive/folders/1BhbAYPlhGHwPXLu5twmlai5HPNEO1mnI?usp=sharing)             |
+| 2019.05.01 | Technical Debt                          |[Click aquí](https://drive.google.com/drive/folders/1P_NzUO_nu5q43sfunrcM8kd8We4svUxY?usp=sharing)             |
