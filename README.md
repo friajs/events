@@ -5,7 +5,7 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 
 |    Fecha   |                   Tema                  |
 |:----------:|:---------------------------------------:|
-| 2018.05.29 |                   TBD                   |  
+| 2018.05.29 | .      1 to 1: DEV & PM                 |  
 
 # Eventos Pasados
 
