@@ -5,7 +5,7 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 
 |    Fecha   |                   Tema                  | Evento |
 |:----------:|:---------------------------------------:|:------:|
-| 2018.05.29 |       1 to 1: DEV & PM                 |  Click aquí](https://www.facebook.com/events/1127491790793362/)   |                                          
+| 2018.05.29 |       1 to 1: DEV & PM                 |  [Click aquí](https://www.facebook.com/events/1127491790793362/)   |                                          
 
 # Eventos Pasados
 
