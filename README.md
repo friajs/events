@@ -5,7 +5,7 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 
 |    Fecha   |                   Tema                  | Evento |
 |:----------:|:---------------------------------------:|:------:|
-| 2018.05.29 |       1 to 1: DEV & PM                 |  [Click aquí](https://www.facebook.com/events/1127491790793362/)   |                                          
+| 2018.07.24 |       TBD                |  TBD  |                                          
 
 # Eventos Pasados
 
@@ -21,6 +21,8 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 | 2019.02.26 | Software Design                         |[Click aquí](https://drive.google.com/open?id=16Fwp2iQWu5BC5LXxUsizziM3iQ-fe9ng)                                                              |
 | 2019.03.27 | Software Design II                      |[Click aquí](https://drive.google.com/drive/folders/1BhbAYPlhGHwPXLu5twmlai5HPNEO1mnI?usp=sharing)             |
 | 2019.05.01 | Technical Debt                          |[Click aquí](https://drive.google.com/drive/folders/1P_NzUO_nu5q43sfunrcM8kd8We4svUxY?usp=sharing)             |
+| 2019.05.29 | 1to1: DEV & PM                         |[Click aquí](https://drive.google.com/open?id=1NHxwJrVQagy036sWTEWyBL4L-6jsQmJK)             |
+| 2019.06.26 | CSS In JS                       |[Click aquí](https://drive.google.com/open?id=1ygm5-r01XDoC6YOcbgIMu035FL3u_p3l)             |
 
 # ¿Quieres proponer un tema para fria.js?
 
