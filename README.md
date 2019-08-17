@@ -5,7 +5,7 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 
 |    Fecha   |                   Tema                  | Evento |
 |:----------:|:---------------------------------------:|:------:|
-| 2018.07.24 |       TBD                |  TBD  |                                          
+| 2018.08.27 |       Estimaciones De Tiempo                |  [Click aquí](https://urlgeni.us/facebook/L0Lk)   |                                          
 
 # Eventos Pasados
 
@@ -23,6 +23,8 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 | 2019.05.01 | Technical Debt                          |[Click aquí](https://drive.google.com/drive/folders/1P_NzUO_nu5q43sfunrcM8kd8We4svUxY?usp=sharing)             |
 | 2019.05.29 | 1to1: DEV & PM                         |[Click aquí](https://drive.google.com/open?id=1NHxwJrVQagy036sWTEWyBL4L-6jsQmJK)             |
 | 2019.06.26 | CSS In JS                       |[Click aquí](https://drive.google.com/open?id=1ygm5-r01XDoC6YOcbgIMu035FL3u_p3l)             |
+| 2019.07.30 | Como Construir Pipelines                      |[Click aquí](http://bit.ly/2N9rDqu)             |
+
 
 # ¿Quieres proponer un tema para fria.js?
 
