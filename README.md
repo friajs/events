@@ -5,7 +5,7 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 
 |    Fecha   |                   Tema                  | Evento |
 |:----------:|:---------------------------------------:|:------:|
-| 2018.08.27 |       Estimaciones De Tiempo                |  [Click aquí](https://urlgeni.us/facebook/L0Lk)   |                                          
+| 2018.09.26 |      Testing, As A Developer              |  [Click aquí](http://bit.ly/2ksEDLU)   |                                          
 
 # Eventos Pasados
 
@@ -24,6 +24,7 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 | 2019.05.29 | 1to1: DEV & PM                         |[Click aquí](https://drive.google.com/open?id=1NHxwJrVQagy036sWTEWyBL4L-6jsQmJK)             |
 | 2019.06.26 | CSS In JS                       |[Click aquí](https://drive.google.com/open?id=1ygm5-r01XDoC6YOcbgIMu035FL3u_p3l)             |
 | 2019.07.30 | Como Construir Pipelines                      |[Click aquí](http://bit.ly/2N9rDqu)             |
+| 2019.08.27 | Estimaciones De Tiempo                    |[Click aquí](http://bit.ly/2kpaMnW)             |
 
 
 # ¿Quieres proponer un tema para fria.js?
