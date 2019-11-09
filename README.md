@@ -5,7 +5,7 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 
 |    Fecha   |                   Tema                  | Evento |
 |:----------:|:---------------------------------------:|:------:|
-| 2019.10.29 |      Refactoring: sin morir en el intento             |  [Click aquí](http://bit.ly/2LMn18V)   |                                          
+| 2019.11.26 |      Readable Code: Why It Matters             |  [Click aquí](http://bit.ly/2NgoLYy)   |                                          
 
 # Eventos Pasados
 
@@ -25,7 +25,8 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 | 2019.06.26 | CSS In JS                       |[Click aquí](https://drive.google.com/open?id=1ygm5-r01XDoC6YOcbgIMu035FL3u_p3l)             |
 | 2019.07.30 | Como Construir Pipelines                      |[Click aquí](http://bit.ly/2N9rDqu)             |
 | 2019.08.27 | Estimaciones De Tiempo                    |[Click aquí](http://bit.ly/2kpaMnW)             |
-| 2019.09.26 |      Testing, As A Developer              |  [Click aquí](http://bit.ly/2OlkiVp)   | 
+| 2019.09.26 |      Testing, As A Developer              |  [Click aquí](http://bit.ly/2OlkiVp)   |
+| 2019.10.29 |      Refactoring: sin morir en el intento             |  [Click aquí](http://bit.ly/2PZt6B8)   | 
 
 # ¿Quieres proponer un tema para fria.js?
 
