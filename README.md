@@ -28,7 +28,7 @@ Registro de todos los eventos pasados y programación de eventos futuros.
 | 2019.08.27 | Estimaciones De Tiempo                    |[Click aquí](http://bit.ly/2kpaMnW)             |
 | 2019.09.26 |      Testing, As A Developer              |  [Click aquí](http://bit.ly/2OlkiVp)   |
 | 2019.10.29 |      Refactoring: sin morir en el intento             |  [Click aquí](http://bit.ly/2PZt6B8)   |
-| 2019.11.26 |      Readable Code: Why It Matters             |  TBD  |  
+| 2019.11.26 |      Readable Code: Why It Matters             |  [Click aquí](http://bit.ly/2LKRwf5) |  
 
 # ¿Quieres proponer un tema para fria.js?
 
